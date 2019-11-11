@@ -1,0 +1,19 @@
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\bin\Debug\テトリス.exe.config
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\bin\Debug\テトリス.exe
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\bin\Debug\テトリス.pdb
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\obj\Debug\テトリス.csprojResolveAssemblyReference.cache
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\obj\Debug\テトリス.Properties.Resources.resources
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\obj\Debug\テトリス.csproj.GenerateResource.Cache
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\obj\Debug\テトリス.exe
+c:\users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\obj\Debug\テトリス.pdb
+C:\Users\h2820\documents\visual studio 2017\Projects\テトリス\テトリス\obj\Debug\テトリス.Form1.resources
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\obj\Debug\テトリス.csprojAssemblyReference.cache
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\obj\Debug\テトリス.Form1.resources
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\obj\Debug\テトリス.Properties.Resources.resources
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\obj\Debug\テトリス.csproj.GenerateResource.cache
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\obj\Debug\テトリス.csproj.CoreCompileInputs.cache
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\obj\Debug\テトリス.exe
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\obj\Debug\テトリス.pdb
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\bin\Debug\テトリス.exe.config
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\bin\Debug\テトリス.exe
+C:\Users\IN8i-15X7200\Downloads\テトリス\テトリス\テトリス\bin\Debug\テトリス.pdb
